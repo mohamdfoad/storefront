@@ -1,0 +1,8 @@
+# Ignored Directories:
+.vscode/
+dist/
+node_modules/
+
+# Ignored Files:
+.env
+package-lock.json
